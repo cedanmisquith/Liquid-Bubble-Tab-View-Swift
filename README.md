@@ -1,5 +1,5 @@
 # Liquid-Bubble-Tab-View-Swift
-A sample project implementing WormTabStrip by EzimetYusup which can be found here: 
+A sample project implementing WormTabStrip by EzimetYusup in Swift 
 
 # WormTabStrip by EzimetYusup - https://github.com/EzimetYusup/WormTabStrip
 
